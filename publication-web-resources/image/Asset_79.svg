@@ -15,41 +15,20 @@
       }
 
       .st2 {
-        fill: url(#New_Gradient_Swatch_1);
+        fill: url(#linear-gradient);
       }
     </style>
-    <linearGradient id="New_Gradient_Swatch_1" data-name="New Gradient Swatch 1" x1="39" y1="78" x2="39" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="linear-gradient" x1="39" y1="610" x2="39" y2="532" gradientTransform="translate(0 -532)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#204f9c"/>
       <stop offset="1" stop-color="#0e2447"/>
     </linearGradient>
   </defs>
-  <g id="Layer_1-2">
-    <g>
-      <circle class="st2" cx="39" cy="39" r="39"/>
-      <g class="st0">
-        <text class="st1" transform="translate(14.7 29.4)"><tspan x="0" y="0">A</tspan></text>
-        <text class="st1" transform="translate(21.6 29.4)"><tspan x="0" y="0">p</tspan></text>
-        <text class="st1" transform="translate(27.1 29.4)"><tspan x="0" y="0">p</tspan></text>
-        <text class="st1" transform="translate(32.8 29.4)"><tspan x="0" y="0">l</tspan></text>
-        <text class="st1" transform="translate(35.3 29.4)"><tspan x="0" y="0">y </tspan></text>
-        <text class="st1" transform="translate(42.8 29.4)"><tspan x="0" y="0">fo</tspan></text>
-        <text class="st1" transform="translate(52 29.4)"><tspan x="0" y="0">r a</tspan></text>
-        <text class="st1" transform="translate(15.8 41.4)"><tspan x="0" y="0">T</tspan></text>
-        <text class="st1" transform="translate(21.3 41.4)"><tspan x="0" y="0">rav</tspan></text>
-        <text class="st1" transform="translate(35.2 41.4)"><tspan x="0" y="0">e</tspan></text>
-        <text class="st1" transform="translate(40.5 41.4)"><tspan x="0" y="0">l </tspan></text>
-        <text class="st1" transform="translate(45.1 41.4)"><tspan x="0" y="0">A</tspan></text>
-        <text class="st1" transform="translate(51.9 41.4)"><tspan x="0" y="0">i</tspan></text>
-        <text class="st1" transform="translate(54.5 41.4)"><tspan x="0" y="0">d </tspan></text>
-        <text class="st1" transform="translate(7.8 53.4)"><tspan x="0" y="0">R</tspan></text>
-        <text class="st1" transform="translate(13.6 53.4)"><tspan x="0" y="0">e</tspan></text>
-        <text class="st1" transform="translate(18.8 53.4)"><tspan x="0" y="0">qu</tspan></text>
-        <text class="st1" transform="translate(30.1 53.4)"><tspan x="0" y="0">es</tspan></text>
-        <text class="st1" transform="translate(39.8 53.4)"><tspan x="0" y="0">t (</tspan></text>
-        <text class="st1" transform="translate(49.1 53.4)"><tspan x="0" y="0">T</tspan></text>
-        <text class="st1" transform="translate(54 53.4)"><tspan x="0" y="0">A</tspan></text>
-        <text class="st1" transform="translate(60.8 53.4)"><tspan x="0" y="0">R)</tspan></text>
-      </g>
+  <circle class="st2" cx="39" cy="39" r="39"/>
+  <g class="st0">
+    <g class="st0">
+      <text class="st1" transform="translate(18.8 28.8)"><tspan x="0" y="0">Apply for </tspan></text>
+      <text class="st1" transform="translate(2.7 40.8)"><tspan x="0" y="0">a Travel Activity </tspan></text>
+      <text class="st1" transform="translate(8.6 52.8)"><tspan x="0" y="0">Request (TAR)</tspan></text>
     </g>
   </g>
 </svg>

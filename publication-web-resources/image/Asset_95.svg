@@ -14,16 +14,18 @@
       .st2 {
         fill: #fff;
         font-family: Gentona-Bold, Gentona;
-        font-size: 13px;
+        font-size: 8.7px;
         font-weight: 700;
       }
     </style>
   </defs>
   <g id="Layer_1-2">
     <g>
-      <rect class="st0" x="0" y="0" width="37.2" height="38.6" rx="13.6" ry="13.6"/>
+      <rect class="st0" x="0" width="37.2" height="38.6" rx="13.6" ry="13.6"/>
       <g class="st1">
-        <text class="st2" transform="translate(4.9 23)"><tspan x="0" y="0">Next</tspan></text>
+        <g class="st1">
+          <text class="st2" transform="translate(15.4 13.9)"><tspan x="0" y="0">if </tspan><tspan x="-13.4" y="10.5">awarded</tspan></text>
+        </g>
       </g>
     </g>
   </g>
