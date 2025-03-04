@@ -15,10 +15,10 @@
       }
 
       .st2 {
-        fill: url(#New_Gradient_Swatch_1);
+        fill: url(#linear-gradient);
       }
     </style>
-    <linearGradient id="New_Gradient_Swatch_1" data-name="New Gradient Swatch 1" x1="64.6" y1="63.3" x2="64.6" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="linear-gradient" x1="64.6" y1="2.7" x2="64.6" y2="66" gradientTransform="translate(0 66) scale(1 -1)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#204f9c"/>
       <stop offset="1" stop-color="#0e2447"/>
     </linearGradient>
@@ -28,9 +28,15 @@
   </g>
   <g class="st0">
     <g class="st0">
-      <text class="st1" transform="translate(31.1 26.1)"><tspan x="0" y="0">Will you event</tspan></text>
-      <text class="st1" transform="translate(15.3 38.1)"><tspan x="0" y="0">happen in the correct</tspan></text>
-      <text class="st1" transform="translate(48.7 50.1)"><tspan x="0" y="0">cycle?</tspan></text>
+      <g class="st0">
+        <text class="st1" transform="translate(31.1 25.7)"><tspan x="0" y="0">Will your event</tspan></text>
+      </g>
+      <g class="st0">
+        <text class="st1" transform="translate(15.3 37.7)"><tspan x="0" y="0">happen in the correct</tspan></text>
+      </g>
+      <g class="st0">
+        <text class="st1" transform="translate(48.7 49.7)"><tspan x="0" y="0">cycle?</tspan></text>
+      </g>
     </g>
   </g>
 </svg>

@@ -1,63 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 102.29 38.59">
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 102.3 48">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
   <defs>
     <style>
-      .cls-1 {
-        letter-spacing: -.01em;
+      .st0 {
+        fill: #204f9c;
       }
 
-      .cls-2 {
-        letter-spacing: 0em;
-      }
-
-      .cls-3 {
-        letter-spacing: -.01em;
-      }
-
-      .cls-4 {
-        letter-spacing: -.02em;
-      }
-
-      .cls-5 {
+      .st1 {
         fill: #fff;
         font-family: Gentona-Bold, Gentona;
         font-size: 10px;
         font-weight: 700;
-      }
-
-      .cls-6 {
-        letter-spacing: -.03em;
-      }
-
-      .cls-7 {
-        letter-spacing: 0em;
-      }
-
-      .cls-8 {
-        letter-spacing: -.02em;
-      }
-
-      .cls-9 {
-        fill: #204f9c;
-      }
-
-      .cls-10 {
-        letter-spacing: 0em;
-      }
-
-      .cls-11 {
-        letter-spacing: 0em;
-      }
-
-      .cls-12 {
-        letter-spacing: 0em;
+        isolation: isolate;
       }
     </style>
   </defs>
-  <g id="Layer_1-2" data-name="Layer 1">
-    <g>
-      <rect class="cls-9" width="102.29" height="38.59" rx="13.57" ry="13.57"/>
-      <text class="cls-5" transform="translate(11.33 16.14)"><tspan class="cls-2" x="0" y="0">C</tspan><tspan class="cls-3" x="6.07" y="0">hec</tspan><tspan x="21.64" y="0">k </tspan><tspan class="cls-6" x="29.22" y="0">y</tspan><tspan class="cls-3" x="34.46" y="0">o</tspan><tspan x="39.97" y="0">ur </tspan><tspan class="cls-4" x="51.74" y="0">s</tspan><tspan class="cls-2" x="56.31" y="0">t</tspan><tspan class="cls-11" x="60.19" y="0">a</tspan><tspan class="cls-2" x="65.35" y="0">tu</tspan><tspan class="cls-7" x="74.87" y="0">s</tspan><tspan x=".97" y="12">&amp; </tspan><tspan class="cls-11" x="9.67" y="12">s</tspan><tspan x="14.34" y="12">u</tspan><tspan class="cls-11" x="20.03" y="12">b</tspan><tspan class="cls-2" x="25.66" y="12">m</tspan><tspan class="cls-3" x="34.07" y="12">i</tspan><tspan class="cls-7" x="36.66" y="12">t </tspan><tspan class="cls-8" x="42.59" y="12">r</tspan><tspan class="cls-3" x="46.47" y="12">e</tspan><tspan class="cls-1" x="51.66" y="12">c</tspan><tspan class="cls-12" x="56.43" y="12">e</tspan><tspan x="61.67" y="12">i</tspan><tspan class="cls-10" x="64.36" y="12">p</tspan><tspan class="cls-2" x="70.01" y="12">t</tspan><tspan x="73.89" y="12">s</tspan></text>
-    </g>
-  </g>
+  <rect class="st0" width="102.3" height="48" rx="13.6" ry="13.6"/>
+  <text class="st1" transform="translate(11.3 15.1)"><tspan x="0" y="0">C</tspan></text>
+  <text class="st1" transform="translate(17.4 15.1)"><tspan x="0" y="0">hec</tspan></text>
+  <text class="st1" transform="translate(33 15.1)"><tspan x="0" y="0">k </tspan></text>
+  <text class="st1" transform="translate(40.5 15.1)"><tspan x="0" y="0">y</tspan></text>
+  <text class="st1" transform="translate(45.8 15.1)"><tspan x="0" y="0">o</tspan></text>
+  <text class="st1" transform="translate(51.3 15.1)"><tspan x="0" y="0">ur </tspan></text>
+  <text class="st1" transform="translate(63.1 15.1)"><tspan x="0" y="0">s</tspan></text>
+  <text class="st1" transform="translate(67.6 15.1)"><tspan x="0" y="0">t</tspan></text>
+  <text class="st1" transform="translate(71.5 15.1)"><tspan x="0" y="0">a</tspan></text>
+  <text class="st1" transform="translate(76.7 15.1)"><tspan x="0" y="0">tu</tspan></text>
+  <text class="st1" transform="translate(86.2 15.1)"><tspan x="0" y="0">s</tspan></text>
+  <text class="st1" transform="translate(12.3 27.1)"><tspan x="0" y="0">&amp; </tspan></text>
+  <text class="st1" transform="translate(21 27.1)"><tspan x="0" y="0">s</tspan></text>
+  <text class="st1" transform="translate(25.7 27.1)"><tspan x="0" y="0">u</tspan></text>
+  <text class="st1" transform="translate(31.4 27.1)"><tspan x="0" y="0">b</tspan></text>
+  <text class="st1" transform="translate(37 27.1)"><tspan x="0" y="0">m</tspan></text>
+  <text class="st1" transform="translate(45.4 27.1)"><tspan x="0" y="0">i</tspan></text>
+  <text class="st1" transform="translate(48 27.1)"><tspan x="0" y="0">t </tspan></text>
+  <text class="st1" transform="translate(53.9 27.1)"><tspan x="0" y="0">r</tspan></text>
+  <text class="st1" transform="translate(57.8 27.1)"><tspan x="0" y="0">e</tspan></text>
+  <text class="st1" transform="translate(63 27.1)"><tspan x="0" y="0">c</tspan></text>
+  <text class="st1" transform="translate(67.8 27.1)"><tspan x="0" y="0">e</tspan></text>
+  <text class="st1" transform="translate(73 27.1)"><tspan x="0" y="0">i</tspan></text>
+  <text class="st1" transform="translate(75.7 27.1)"><tspan x="0" y="0">p</tspan></text>
+  <text class="st1" transform="translate(81.3 27.1)"><tspan x="0" y="0">t</tspan></text>
+  <text class="st1" transform="translate(85.2 27.1)"><tspan x="0" y="0">s</tspan></text>
+  <text class="st1" transform="translate(20.7 38.6)"><tspan x="0" y="0">to SG Finance</tspan></text>
 </svg>
